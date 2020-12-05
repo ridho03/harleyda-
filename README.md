@@ -70,6 +70,10 @@ Ket: Aktiv 24 jam
 ## Note
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS187 ID)
 
+##THANKS TO
+[`ST4RZ`](https://github.com/Bintang73)
+[`ARIS187 ID`](https://github.com/A187ID)
+
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/_sadboy.ig)
